@@ -1,0 +1,7 @@
+if rate {
+	calificación = 5
+}
+
+for estudiantes in salon {
+	print (estuduantes)
+}
